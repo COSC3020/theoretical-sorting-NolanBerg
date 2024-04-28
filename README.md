@@ -42,3 +42,7 @@ Evaluate Stability:
 
    - Finally I would test the algorithm with increasingly larger input sizes to see how the sorting time scales.
 
+
+Theoretical Argument:
+
+The claim contradicts the theoretical lower bound for comparison based sorting algorithms. The general sorting problem has a lower bound of $( \Omega(n \log n) )$ for comparison based algorithms. Therefore, it is highly unlikely that this claim is true. 
