@@ -38,4 +38,7 @@ Statistical Analysis:
 
    - The next step would be to compute the average and standard deviation of the sorting times across all test cases, as well as look for any patterns or anything unusual in the results.
 
+Evaluate Stability:
+
+   - Finally I would test the algorithm with increasingly larger input sizes to see how the sorting time scales.
 
