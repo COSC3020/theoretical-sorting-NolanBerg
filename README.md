@@ -32,7 +32,7 @@ Perform Sorting:
 
 Compare Results:
 
-   - I would then compare the recorded sorting times against the expected time complexity of $( O(n) )$. Expect to observe a linear relationship between sorting times and input sizes if it truly operates in $( O(n) )$. This means the time should increase proportional to the size of the input. Any algorithm based solely on comparisons of two elements at a time cannot achieve a time complexity better than $( O(n \log n) )$ for arbitrary elements, so the claim of achieving $( O(n) )$ time complexity with a comparison-based sorting algorithm is not true.
+   - I would then compare the recorded sorting times against the expected time complexity of $( O(n) )$. Expect to observe a linear relationship between sorting times and input sizes if it truly operates in $( O(n) )$. This means the time should increase proportional to the size of the input. Any algorithm based solely on comparisons of two elements at a time cannot achieve a time complexity better than $( O(n \log n) )$ for arbitrary elements, so the claim of achieving $( O(n) )$ time complexity with a comparison-based sorting algorithm is most likely not true.
 
 Statistical Analysis:
 
